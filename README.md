@@ -23,10 +23,10 @@ This API is a Laravel Application for managing News posts and comments with CRUD
 - post_id: The post id of the post being upvoted
 
 ## Collection Link and Documentation
-- `https://documenter.getpostman.com/view/17990816/UVXqDrvm`
+- https://documenter.getpostman.com/view/17990816/UVXqDrvm
 
 ## Deployment Link on Heroku
-- `https://odj-news-board-api.herokuapp.com/api/`
+- https://odj-news-board-api.herokuapp.com/api/
 
 ## To Run CRON Job
 - SSH into your server
